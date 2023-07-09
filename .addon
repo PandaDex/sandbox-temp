@@ -1,0 +1,37 @@
+{
+  "Title": "Prop_Hunt",
+  "Type": "game",
+  "Org": "local",
+  "Ident": "prop_hunt",
+  "Tags": null,
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "Resources": null,
+  "MenuResources": null,
+  "HasCode": true,
+  "CodePath": "/code/",
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "Metadata": {
+    "MaxPlayers": 64,
+    "MinPlayers": 2,
+    "GameNetworkType": "Multiplayer",
+    "MapSelect": "Unrestricted",
+    "MapList": [
+      "facepunch.flatgrass"
+    ],
+    "RankType": "None",
+    "PerMapRanking": false,
+    "LeaderboardType": "None",
+    "ProjectTemplate": null,
+    "CsProjName": "",
+    "PackageSettings": [
+      {
+        "Choices": [],
+        "ConVarName": "",
+        "DisplayName": "New Setting..."
+      }
+    ]
+  }
+}
